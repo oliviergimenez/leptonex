@@ -1,0 +1,49 @@
+---
+title: "Pose de GPS sur deux ragondins"
+description: | 
+  Après plusieurs semaines de préparation, nous avons pu poser une balise GPS sur deux ragondins dans la région de Montpellier.
+author:
+  - name: "Olivier"
+date: "2024-12-02"
+title-block-banner: "#B8573E"
+toc: true
+toc-location: left
+toc-depth: 2
+categories:
+  - Myocastor
+  - GPS
+image: ragondin.JPG
+draft: false
+freeze: true
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r}
+#| include: false
+library(htmltools)
+```
+
+<!-- remove metadata section -->
+<style>
+  #title-block-header.quarto-title-block.default .quarto-title-meta {
+      display: none;
+  }
+</style>
+
+
+<!------------------------ Post starts here ------------------------>
+
+Et voilà! C'est une première en Europe, nous avons posé une balise GPS sur deux ragondins. Pour voir la vidéo du relâché, cliquez sur l'image : 
+
+<p style="text-align: center;">
+  <a href="https://drive.google.com/file/d/1wVN0XuV8AwelBETvSBzAmzeLt4dBYTjx/view?usp=drive_link" target="_blank">
+    <img src="ragondin.JPG" alt="Voir la vidéo" width="600"/>
+  </a>
+</p>
+
+<!-- <iframe src="https://drive.google.com/file/d/1wVN0XuV8AwelBETvSBzAmzeLt4dBYTjx/preview"  -->
+<!--         width="640" height="480" allow="autoplay"> -->
+<!-- </iframe> -->
+
+

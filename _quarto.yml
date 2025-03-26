@@ -1,0 +1,66 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!archive/"
+
+website:
+  title: "RIVIERE"
+  description: "Demo projects, experiments, debugging data and so on from the [Atlas of Living Australia (ALA)](https://ala.org.au/)"
+  # open-graph:
+  #   image: twitter-card-preview_frog-small.png
+  #   image-alt: "A Southern Brown Tree Frog with the ALA Labs logo"
+  # twitter-card:
+  #   image: twitter-card-preview_frog-small.png
+  #   image-alt: "A Southern Brown Tree Frog with the ALA Labs logo"
+  #   card-style: summary_large_image
+  site-url: https://labs.ala.org.au/
+  favicon: images/favicon.ico
+  navbar:
+    background: "#222322"
+    foreground: "#FFFFFF"
+    title: ""
+    # search: false
+    # logo: images/logos/ALA_Logo_Inline_REV-RGB.png
+    right:
+      - href: index.qmd
+        icon: house-door-fill
+        text: " "
+      - text: "Le projet"
+        menu:
+        - href: research/shs/index.qmd
+          text: "Sciences sociales"
+        - href: research/statistique/index.qmd
+          text: "Statistique"
+        - href: research/sante/index.qmd
+          text: "Santé"
+      - href: about/index.qmd
+        text: "L'équipe"
+      - href: posts/index.qmd
+        text: "Les nouvelles"
+      # - href: software/index.qmd
+      #   text: "Software"
+      # - href: books/index.qmd
+      #   text: "Books"
+      # - href: gallery/index.qmd
+      #   text: "Gallery"
+      # - href: https://www.ala.org.au
+      #   icon: ala
+      # - href: https://github.com/AtlasOfLivingAustralia/ala-labs
+      #   icon: github
+
+format:
+  html:
+    fontsize: 1.15rem
+    monofont: Fira Code
+    highlight-style: arrow
+    css: [theme.css, custom_theme.scss]
+    toc: true
+    code-overflow: scroll
+    linkcolor: "#B8573E"
+    include-before-body: _fathom.html
+
+freeze: true
+
+
+

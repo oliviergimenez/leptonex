@@ -1,0 +1,14 @@
+---
+title: "Sciences sociales"
+#subtitle: "Papers that mention or cite the ALA"
+title-block-banner: "#E06E53"
+title-block-banner-color: body
+toc: false
+format: 
+  html: 
+    include-after-body: _footer.html
+    self-contained: true
+freeze: true
+---
+
+Observation et documentation des interactions humains - ragondins en présence ou non de chiens.
