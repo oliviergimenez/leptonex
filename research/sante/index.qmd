@@ -11,4 +11,6 @@ format:
 freeze: true
 ---
 
-Prélèvements biologiques et analyses environnementales pour détecter les leptospires.
+# Évaluer la prévalence et la diversité génétique des leptospires dans les milieux contaminés et chez le ragondin, en lien avec la dynamique de population de cet hôte.
+
+Le danger zoonotique lié aux leptospires sera évalué à partir d’analyses moléculaires menées sur des échantillons de ragondins et de l’environnement. Des approches de génétique des populations permettront d’explorer l’influence de l’écologie des ragondins sur la diversité des leptospires, tandis que des enquêtes auprès de vétérinaires contribueront à mieux comprendre le rôle des chiens dans l’hétérogénéité spatiale de cette transmission.

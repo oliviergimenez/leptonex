@@ -11,4 +11,6 @@ format:
 freeze: true
 ---
 
-Équipement de ragondins avec balises GPS pour analyser déplacements et comportements.
+# Modéliser la distribution spatiale des ragondins et les zones d’interaction avec les humains en lien avec des scénarios de changements environnementaux (urbanisation, climat).
+
+Des approches de modélisation statistique sont utilisées pour estimer la distribution spatiale des ragondins et leurs interactions avec les humains, en intégrant des scénarios de changement climatique et d’urbanisation. L’évolution des interactions humain-faune face aux changements environnementaux est simulée à l’aide d’un modèle à base d’agents et d’un modèle mathématique fondé sur des systèmes d’équations différentielles partielles.

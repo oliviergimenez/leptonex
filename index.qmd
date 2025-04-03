@@ -23,7 +23,7 @@ library(htmltools)
 source("R/functions.R")
 ```
 
-# Le projet RIVIERE
+# Le projet
 
 Nous proposons d’évaluer les risques d’exposition et de transmission zoonotique  (leptospirose) à l’interface humains-ragondins en procédant à une analyse qualitative et quantitative des contacts entre ces deux espèces sur la métropole de Montpellier. Pour ce faire, nous adopterons une démarche interdisciplinaire et transdisciplinaire croisant savoirs scientifiques et savoirs techniques des gestionnaires et piégeurs.
 

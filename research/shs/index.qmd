@@ -11,4 +11,6 @@ format:
 freeze: true
 ---
 
-Observation et documentation des interactions humains - ragondins en présence ou non de chiens.
+# Caractériser les interactions humain-chien-ragondin à travers des approches combinant observations de terrain, entretiens qualitatifs, et données d’activité dans les espaces naturels urbains.
+
+L’étude des interactions entre humains et ragondins repose sur des observations de terrain visant à quantifier les comportements à risque, des entretiens semi-directifs menés auprès des usagers des espaces naturels et des piégeurs pour comprendre leurs perceptions et leurs pratiques, ainsi que sur l’analyse des dynamiques socio-écologiques et des représentations culturelles du ragondin et des risques associés.
