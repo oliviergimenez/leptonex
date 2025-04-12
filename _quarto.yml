@@ -5,7 +5,7 @@ project:
     - "!archive/"
 
 website:
-  title: "RIVIERE"
+  title: "LeptoNex"
   description: "Demo projects, experiments, debugging data and so on from the [Atlas of Living Australia (ALA)](https://ala.org.au/)"
   # open-graph:
   #   image: twitter-card-preview_frog-small.png
