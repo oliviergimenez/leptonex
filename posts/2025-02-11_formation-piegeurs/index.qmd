@@ -1,18 +1,19 @@
 ---
-title: "Pose de GPS sur deux ragondins"
+title: "Formation des piégeurs"
 description: | 
-  Après plusieurs semaines de préparation, nous avons pu poser une balise GPS sur deux ragondins dans la région de Montpellier.
+  Dans le cadre du projet, nous formons les piégeurs à la collecte du matériel biologique sur les ragondins.
 author:
-  - name: "Olivier Gimenez"
-date: "2024-12-02"
+  - name: "Karine Berthier"
+date: "2025-02-11"
 title-block-banner: "#B8573E"
 toc: true
 toc-location: left
 toc-depth: 2
 categories:
-  - GPS
-  - mouvements
-image: ragondin.JPG
+  - génétique
+  - prévalence
+  - réseau
+image: formation-piegeur.jpg
 draft: false
 freeze: true
 editor_options: 
@@ -34,13 +35,12 @@ library(htmltools)
 
 <!------------------------ Post starts here ------------------------>
 
-Et voilà! C'est une première en Europe, nous avons posé une balise GPS sur deux ragondins. Pour voir la vidéo du relâché, cliquez sur l'image : 
+Nous avons organisé une formation à destination des piégeurs pour la collecte de matériel biologique sur les ragondins. Ces échantillons serviront à étudier la structure génétique des populations ainsi qu'à évaluer la prévalence de la leptospirose. 
 
-<p style="text-align: center;">
-  <a href="https://drive.google.com/file/d/1wVN0XuV8AwelBETvSBzAmzeLt4dBYTjx/view?usp=drive_link" target="_blank">
-    <img src="ragondin.JPG" alt="Voir la vidéo" width="600"/>
-  </a>
-</p>
+![](images/formation-piegeur.jpg)
+
+![](images/formation-piegeur2.jpg)
+
 
 <!-- <iframe src="https://drive.google.com/file/d/1wVN0XuV8AwelBETvSBzAmzeLt4dBYTjx/preview"  -->
 <!--         width="640" height="480" allow="autoplay"> -->

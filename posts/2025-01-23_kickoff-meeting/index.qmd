@@ -1,0 +1,37 @@
+---
+title: "Réunion de lancement"
+description: | 
+  Après une réunion de cadrage le 20/09/2024 et plusieurs échanges intermédiaires, nous avons pu officiellement lancer le projet en présence de tous les partenaires.
+author:
+  - name: "Olivier Gimenez"
+date: "2025-01-23"
+title-block-banner: "#B8573E"
+toc: true
+toc-location: left
+toc-depth: 2
+categories:
+  - réunions
+image: OneHeath4Cities_Avatar_0.png
+draft: false
+freeze: true
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r}
+#| include: false
+library(htmltools)
+```
+
+<!-- remove metadata section -->
+<style>
+  #title-block-header.quarto-title-block.default .quarto-title-meta {
+      display: none;
+  }
+</style>
+
+
+<!------------------------ Post starts here ------------------------>
+
+Et voilà, le projet est lancé ! Nous proposons d'évaluer les risques d'exposition et de transmission zoonotique (leptospirose) à l'interface humains-ragondins. Pour ce faire, nous adoptons une démarche interdisciplinaire et transdisciplinaire croisant savoirs scientifiques (éco-épidémiologie, modélisation statistique, sciences sociales) et savoirs techniques des gestionnaires et piégeurs.
+
