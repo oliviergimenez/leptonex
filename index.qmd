@@ -25,4 +25,29 @@ source("R/functions.R")
 
 # Le projet
 
-Nous proposons d’évaluer les risques d’exposition et de transmission zoonotique  (leptospirose) à l’interface humains-ragondins en procédant à une analyse qualitative et quantitative des contacts entre ces deux espèces sur la métropole de Montpellier. Pour ce faire, nous adopterons une démarche interdisciplinaire et transdisciplinaire croisant savoirs scientifiques et savoirs techniques des gestionnaires et piégeurs.
+Nous proposons d’évaluer les risques d’exposition et de transmission zoonotique  (leptospirose) à l’interface humains-ragondins en procédant à une analyse qualitative et quantitative des contacts entre ces deux espèces sur la métropole de Montpellier. Pour ce faire, nous adopterons une démarche interdisciplinaire et transdisciplinaire croisant savoirs scientifiques et savoirs techniques des gestionnaires et piégeurs. Nous sommes soutenus par <a href = "https://www.umontpellier.fr/universite/projets-emblematiques/exposum" class = "footer-link">l'Institut ExposUM</a> de <a href = "https://www.umontpellier.fr/" class = "footer-link">l'Université de Montpellier</a> avec des financements de la <a href = "https://www.laregion.fr/" id = "d-article" class = "footer-link">région Occitanie</a> et <a href = "https://www.economie.gouv.fr/france-2030" id = "d-article" class = "footer-link">France 2030</a>.
+
+<!-- *** -->
+
+<!-- <div class="footer-container column-screen"> -->
+<!--   <p class="footer-text"> Le projet est soutenu par  -->
+<!--       <a href = "https://www.umontpellier.fr/universite/projets-emblematiques/exposum" class = "footer-link">l'Institut ExposUM</a> de  -->
+<!--              <a href = "https://www.umontpellier.fr/" class = "footer-link">l'Université de Montpellier</a> avec des financements de la  -->
+<!--              <a href = "https://www.laregion.fr/" id = "d-article" class = "footer-link">région Occitanie</a> et <a href = "https://www.economie.gouv.fr/france-2030" id = "d-article" class = "footer-link">France 2030</a>. -->
+<!--       </p> -->
+<!-- </div> -->
+
+<div class="footer-logos">
+  <a href="https://www.umontpellier.fr/universite/projets-emblematiques/exposum">
+    <img src="images/logos/logo_exposUM_2022_noir_bleu (1).png" alt="logo ExposUM" />
+  </a>
+  <a href="https://www.umontpellier.fr/">
+    <img src="images/logos/logo_um_2020_rouge_RVB (1).png" alt="logo UM" />
+  </a>
+  <a href="https://www.laregion.fr/">
+    <img src="images/logos/OC-1706-instit-logo carre-quadri-150x150-72dpi.png" alt="logo Occitanie" />
+  </a>
+  <a href="https://www.economie.gouv.fr/france-2030">
+    <img src="images/logos/logo_france_2030-2.jpg" alt="logo France2030" />
+  </a>
+</div>

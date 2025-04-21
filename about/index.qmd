@@ -23,6 +23,7 @@ source("../R/functions.R")
 
 Contacts : Olivier Gimenez [olivier.gimenez@cefe.cnrs.fr](mailto:olivier.gimenez@cefe.cnrs.fr) et Nathalie Charbonnel [nathalie.charbonnel@inrae.fr](mailto:nathalie.charbonnel@inrae.fr)
 
+
 <!-- # Notre équipe -->
 
 <!-- *Cliquez sur les photos pour accéder à plus d'informations sur les personnes* -->

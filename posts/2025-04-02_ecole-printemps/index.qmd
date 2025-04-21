@@ -1,0 +1,50 @@
+---
+title: "Ecole de Printemps « Territoires en Santés »"
+description: | 
+  Nous avons participé à une école de printemps « Territoires en Santés » et présenté nos travaux sur le ragondin et la leptospirose. 
+author:
+  - name: "Yann Raulet, Olivier Gimenez"
+date: "2025-04-02"
+title-block-banner: "#B8573E"
+toc: true
+toc-location: left
+toc-depth: 2
+categories:
+  - réunion
+  - conférence
+image: springschool.jpeg
+draft: false
+freeze: true
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r}
+#| include: false
+library(htmltools)
+```
+
+<!-- remove metadata section -->
+<style>
+  #title-block-header.quarto-title-block.default .quarto-title-meta {
+      display: none;
+  }
+</style>
+
+
+<!------------------------ Post starts here ------------------------>
+
+ Nous sommes intervenus dans le cadre de l'[école de printemps « Territoires en Santés »](https://www.mshsud.org/agenda/lancement-de-lecole-de-printemps-territoires-en-santes/) organisée par la MSH Sud et 
+
+Cet événement vise à mener une réflexion collective autour d’enjeux santé-environnement prégnants au niveau d’un territoire fortement marqué par les activités humaines (territoire de l’Anthropocène). 
+
+Ces journées doivent permettre d’élaborer un cadre de recherche et de renforcer les compétences en transdisciplinarité, au bénéfice des participant-e-s, afin de penser les enjeux d’habitabilité en « bonne santé » du territoire de Montpellier. 
+
+Cette démarche implique notamment de s’intéresser aux enjeux que soulève l’expansion territoriale de la ville de Montpellier et la préservation des milieux dans le contexte de changement climatique et de pression sur les ressources du territoire (eau, air, etc.). 
+
+
+<!-- <iframe src="https://drive.google.com/file/d/1wVN0XuV8AwelBETvSBzAmzeLt4dBYTjx/preview"  -->
+<!--         width="640" height="480" allow="autoplay"> -->
+<!-- </iframe> -->
+
+

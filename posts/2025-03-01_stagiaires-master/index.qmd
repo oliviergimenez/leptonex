@@ -1,19 +1,19 @@
 ---
-title: "Formation des piégeurs"
+title: "Bienvenue à nos stagiaires de Master"
 description: | 
-  Dans le cadre du projet, nous formons les piégeurs à la collecte du matériel biologique sur les ragondins.
+  Nous accueillons Camille Mottier et Lucie Develay Nguyen en stage de Master 2. 
 author:
-  - name: "Karine Berthier, Sylvain Piry"
-date: "2025-02-11"
+  - name: "Olivier Gimenez, Romain Duda, Nicolas Lescureux"
+date: "2025-03-01"
 title-block-banner: "#B8573E"
 toc: true
 toc-location: left
 toc-depth: 2
 categories:
-  - génétique
-  - prévalence
-  - réseau
-image: formation-piegeur.jpg
+  - stages
+  - distribution
+  - perceptions
+image: logo_um.png
 draft: false
 freeze: true
 editor_options: 
@@ -35,12 +35,7 @@ library(htmltools)
 
 <!------------------------ Post starts here ------------------------>
 
-Nous avons organisé une formation à destination des piégeurs pour la collecte de matériel biologique sur les ragondins. Ces échantillons serviront à étudier la structure génétique des populations ainsi qu'à évaluer la prévalence de la leptospirose. 
-
-![](images/formation-piegeur.jpg)
-
-![](images/formation-piegeur2.jpg)
-
+Bienvenue à Camille et Lucie! Camille analysera et de modélisera la distribution spatio-temporelle des populations de ragondin et de rat musqué dans la région Occitanie. Lucie étudiera les connaissances, les perceptions et les pratiques des piégeurs et du grand public concernant les ragondins.
 
 <!-- <iframe src="https://drive.google.com/file/d/1wVN0XuV8AwelBETvSBzAmzeLt4dBYTjx/preview"  -->
 <!--         width="640" height="480" allow="autoplay"> -->

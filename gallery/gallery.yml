@@ -1,0 +1,23 @@
+
+- tiles:
+    - title: La leptospirose
+      author: sante.gouv.fr
+      subtitle: Communication
+      href: https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/article/leptospirose
+      thumbnail: images/lepto.png
+    - title: Les espèces exotiques
+      author: Nathalie Vazzoler-Antoine
+      subtitle: Communication
+      href: https://etang-de-l-or.com/especes_envahissantes/
+      thumbnail: images/ragondin.gif
+    - title: Estimer les effectifs
+      author: Olivier Gimenez
+      subtitle: Article scientifique
+      href: https://arxiv.org/abs/2501.01809
+      code: https://github.com/oliviergimenez/counting-rodents
+      thumbnail: images/estimate-rodent-abundance.png
+    # - title: Frog diversification
+    #   author: Ian Brennan et al.
+    #   subtitle: Peer-reviewed paper
+    #   href: https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syad048/7235049?utm_source=authortollfreelink&utm_campaign=sysbio&utm_medium=email&guestAccessKey=9b77aef3-64bb-4c25-ad49-9fbf0b947cd9&login=true
+    #   thumbnail: images/frog-hex-maps.jfif

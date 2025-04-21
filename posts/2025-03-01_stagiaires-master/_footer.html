@@ -77,8 +77,8 @@
   max-width: 1140px;
   padding-left: 15px;
   padding-right: 15px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   margin: auto;
 }
 
@@ -106,6 +106,12 @@
   display: flex;
   flex-direction:column;
   display:inline-block;
+}
+
+
+.footer-logo {
+  text-align: left;
+  margin:5px;
 }
 
 .footer-text {
@@ -208,24 +214,23 @@
   }
 }
 
-
-.footer-logos {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 20px; /* espace horizontal et vertical entre logos */
-  margin: 20px auto;
-  padding: 10px 0;
+.logo-ncris {
+  width: auto;
+  height: 109px;
+  margin-right: 15px;
+  margin-top: 20px;
 }
 
-.footer-logos img {
-  height: 60px; /* fixe une hauteur commune */
-  object-fit: contain;
-  padding: 5px;
-  background-color: white; /* facultatif pour ajouter du "blanc" autour */
-  border-radius: 4px;       /* arrondi doux si tu veux */
-  max-width: 120px;         /* empêche qu'un logo trop large déborde */
+.logo-csiro {
+  width: auto;
+  height: 109px;
+  margin-right: 15px;
+  margin-top: 20px;
+}
+
+.logo-gbif {
+  width: auto;
+  height: 109px;
 }
 
 @media (min-width: 992px) {}
@@ -239,3 +244,68 @@ body .page-columns{
 </style>
 
 <hr style="padding-top: 1px">
+
+<div class = "footer-container column-screen">
+
+  <!--<div class = "row-footer">-->
+    <div class = "column-footer">
+      <p class = "footer-text">The ALA is made possible by contributions from its partners, is supported
+      by
+      <a href = "https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris" class = "footer-link">NCRIS</a>, is hosted by
+             <a href = "https://csiro.au/" class = "footer-link">CSIRO</a>, and is the Australian node of
+             <a href = "https://www.gbif.org/en/" id = "d-article" class = "footer-link">GBIF</a>.
+      </p>
+      <a href = "https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris">
+        <img
+          src = "images/logos/NCRIS_logo.png"
+          class = "logo-ncris"
+          alt="NCRIS logo">
+        </img>
+        </a>
+      <a href = "https://csiro.au/">
+        <img
+          src = "images/logos/CSIRO_logo.png"
+          class = "logo-csiro"
+          alt="CSIRO logo">
+        </img>
+        </a>
+      <a href = "https://www.gbif.org/en/">
+        <img
+          src = "images/logos/GBIF_109px.png"
+          class = "logo-gbif"
+          alt="GBIF logo">
+        </img>
+        </a>
+    </div>
+    <div class = "column-footer" id = "footer-logo">
+      <p class = "footer-text"><strong>Acknowledgement of Traditional Owners and Country</strong></p>
+      <p class = "footer-text-small">The Atlas of Living Australia acknowledges Australia's Traditional Owners
+      and pays respect to the past and present Elders of the nation's Aboriginal
+      and Torres Strait Islander communities. We honour and celebrate the
+      spiritual, cultural and customary connections of Traditional Owners to
+      country and the biodiversity that forms part of that country.<br></br></p>
+    </div>
+<!--  </div>-->
+</div>
+
+<div class="copright-container column-screen">
+  <div class="copyright-row">
+     <div class="copyright-width">
+  		<div class="copyright-column-left">
+  				<p class="copyright-text">
+  					This work is licensed under a <a style = "color:#fff!important;" href="https://creativecommons.org/licenses/by/3.0/au/">Creative Commons Attribution 3.0 Australia License</a>
+  					<a rel="license" href="http://creativecommons.org/licenses/by/3.0/au/"><img alt="Creative Commons License" style="border-width:0" src="images/logos/cc-by.png"></img></a>
+  				</p>
+			</div><!--col end -->
+    	<div class="copyright-column-right">
+         <p class="copyright-text">
+           <a style = "color:#fff!important;" href="https://www.ala.org.au/terms-of-use#cy">Copyright</a>
+           &nbsp;&nbsp;
+           <a style = "color:#fff!important;" href="https://www.ala.org.au/terms-of-use">Terms of Use</a>
+           &nbsp;&nbsp;
+           <a style = "color:#fff!important;" href="https://status.ala.org.au/">System Status</a>
+         </p>
+      </div>
+    </div>
+	</div><!-- row end -->
+</div>
