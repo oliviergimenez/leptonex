@@ -1,0 +1,14 @@
+{
+  "hash": "314ca132191afcb7451cbadd95e08026",
+  "result": {
+    "markdown": "---\ntitle: \"Des espèces invasives dans nos assiettes\"\ndescription: | \n  Une mise en lumière du travail du SYMBO et des piégeurs.\nauthor:\n  - name: \"Nathalie Vazzoler-Antoine\"\ndate: \"2025-05-05\"\ntitle-block-banner: \"#B8573E\"\ntoc: true\ntoc-location: left\ntoc-depth: 2\ncategories:\n  - médiation\n  - reportage\nimage: capechade.png\ndraft: false\nfreeze: true\neditor_options: \n  chunk_output_type: inline\n---\n\n\n\n\n<!-- remove metadata section -->\n<style>\n  #title-block-header.quarto-title-block.default .quarto-title-meta {\n      display: none;\n  }\n</style>\n\n<!------------------------ Post starts here ------------------------>\n\nUne initiative originale, découvrez la vidéo :\n\n<iframe\n  src=\"https://www.dailymotion.com/embed/video/x9j07qc\"\n  width=\"640\"\n  height=\"360\"\n  frameborder=\"0\"\n  allow=\"autoplay\"\n  allowfullscreen>\n</iframe>\n\n<!-- <iframe src=\"https://drive.google.com/file/d/1wVN0XuV8AwelBETvSBzAmzeLt4dBYTjx/preview\"  -->\n<!--         width=\"640\" height=\"480\" allow=\"autoplay\"> -->\n<!-- </iframe> -->\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
