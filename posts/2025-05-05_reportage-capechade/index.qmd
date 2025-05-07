@@ -33,19 +33,11 @@ library(htmltools)
 
 <!------------------------ Post starts here ------------------------>
 
-Une initiative originale, découvrez la vidéo :
+Une initiative originale, découvrez la vidéo du reportage en cliquant sur l'image : 
 
-<iframe
-  src="https://www.dailymotion.com/embed/video/x9j07qc"
-  width="640"
-  height="360"
-  frameborder="0"
-  allow="autoplay"
-  allowfullscreen>
-</iframe>
-
-<!-- <iframe src="https://drive.google.com/file/d/1wVN0XuV8AwelBETvSBzAmzeLt4dBYTjx/preview"  -->
-<!--         width="640" height="480" allow="autoplay"> -->
-<!-- </iframe> -->
-
+<p style="text-align: center;">
+  <a href="https://www.dailymotion.com/video/x9j07qc" target="_blank">
+    <img src="ragondintf1.png" alt="Voir la vidéo" width="600"/>
+  </a>
+</p>
 
