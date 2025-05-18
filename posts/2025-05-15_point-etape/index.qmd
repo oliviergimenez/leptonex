@@ -1,0 +1,38 @@
+---
+title: "Réunion point d'étape"
+description: | 
+  L'occasion de faire le point sur les travaux en cours.
+author:
+  - name: "Olivier Gimenez et Nathalie Charbonnel"
+date: "2025-05-15"
+title-block-banner: "#B8573E"
+toc: true
+toc-location: left
+toc-depth: 2
+categories:
+  - réunion
+  - pique-nique
+image: maison-nature.JPG
+draft: false
+freeze: true
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r}
+#| include: false
+library(htmltools)
+```
+
+<!-- remove metadata section -->
+<style>
+  #title-block-header.quarto-title-block.default .quarto-title-meta {
+      display: none;
+  }
+</style>
+
+<!------------------------ Post starts here ------------------------>
+
+Nous avons organisé une réunion à la Maison de la Nature à Lattes pour faire le point sur les travaux en cours. La bonne nouvelle concerne les étudiantes et les étudiants du projet qui se voient offrir l'opportunité de continuer en thèse ! Merci à l'Institut ExposUM pour sa confiance. On a fêté ça autour d'un pique-nique tous ensemble. 
+
+![](images/groupe.jpeg)

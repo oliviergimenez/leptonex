@@ -1,0 +1,14 @@
+{
+  "hash": "5d72ab8b77aaa333a4dd28f805b38cc8",
+  "result": {
+    "markdown": "---\ntitle: \"Réunion point d'étape\"\ndescription: | \n  L'occasion de faire le point sur les travaux en cours.\nauthor:\n  - name: \"Olivier Gimenez et Nathalie Charbonnel\"\ndate: \"2025-05-15\"\ntitle-block-banner: \"#B8573E\"\ntoc: true\ntoc-location: left\ntoc-depth: 2\ncategories:\n  - réunion\n  - pique-nique\nimage: maison-nature.JPG\ndraft: false\nfreeze: true\neditor_options: \n  chunk_output_type: inline\n---\n\n\n\n\n<!-- remove metadata section -->\n<style>\n  #title-block-header.quarto-title-block.default .quarto-title-meta {\n      display: none;\n  }\n</style>\n\n<!------------------------ Post starts here ------------------------>\n\nNous avons organisé une réunion à la Maison de la Nature à Lattes pour faire le point sur les travaux en cours. La bonne nouvelle concerne les étudiantes et les étudiants du projet qui se voient offrir l'opportunité de continuer en thèse ! Merci à l'Institut ExposUM pour sa confiance. On a fêté ça autour d'un pique-nique tous ensemble. \n\n![](images/groupe.jpeg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
