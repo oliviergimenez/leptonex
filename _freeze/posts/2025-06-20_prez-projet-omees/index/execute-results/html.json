@@ -1,0 +1,14 @@
+{
+  "hash": "09dae6a7349b186dbc0b60732df81c0a",
+  "result": {
+    "markdown": "---\ntitle: \"Séminaire Observatoire Montpelliérain en Ecologie et Evolution de la Santé (OMEES)\"\ndescription: | \n  Présentation du projet.\nauthor:\n  - name: \"Olivier Gimenez et Nathalie Charbonnel\"\ndate: \"2025-06-20\"\ntitle-block-banner: \"#B8573E\"\ntoc: true\ntoc-location: left\ntoc-depth: 2\ncategories:\n  - séminaire\nimage: logo-omees.JPG\ndraft: false\nfreeze: true\neditor_options: \n  chunk_output_type: inline\n---\n\n\n\n\n<!-- remove metadata section -->\n<style>\n  #title-block-header.quarto-title-block.default .quarto-title-meta {\n      display: none;\n  }\n</style>\n\n<!------------------------ Post starts here ------------------------>\n\nOlivier et Nathalie ont présenté le projet à l'occasion de la restitution des résultats des projets de recherche de l'Observatoire Montpelliérain en Ecologie et Evolution de la Santé. La présentation est disponible via <https://doi.org/10.6084/m9.figshare.29603279.v1>. Plus de détails sur l'observatoire là <https://www.montpellier.fr/actions/competences/environnement-biodiversite/ecologie-de-la-sante>.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
