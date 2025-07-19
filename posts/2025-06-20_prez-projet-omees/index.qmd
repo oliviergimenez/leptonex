@@ -11,7 +11,7 @@ toc-location: left
 toc-depth: 2
 categories:
   - séminaire
-image: logo-omees.JPG
+image: logo-omees.jpg
 draft: false
 freeze: true
 editor_options: 
