@@ -1,0 +1,14 @@
+{
+  "hash": "bc059291bc0ba6da113e80f4fd99206d",
+  "result": {
+    "markdown": "---\ntitle: \"Présentation du projet LeptoNex\"\ndescription: | \nauthor:\n  - name: \"Olivier Gimenez et Nathalie Charbonnel\"\ndate: \"2025-11-14\"\ntitle-block-banner: \"#B8573E\"\ntoc: true\ntoc-location: left\ntoc-depth: 2\ncategories:\n  - réunion\nimage: diapo-titre.png\ndraft: false\nfreeze: true\neditor_options: \n  chunk_output_type: inline\n---\n\n\n\n\n<!-- remove metadata section -->\n<style>\n  #title-block-header.quarto-title-block.default .quarto-title-meta {\n      display: none;\n  }\n</style>\n\n<!------------------------ Post starts here ------------------------>\n\nL'équipe LeptoNex a été invitée à présenter le projet au cours de deux événements au mois de novembre. \n\nD'abord le 13 novembre à la 13ème réunion du Réseau d'expertise scientifique et technique sur les espèces exotiques envahissantes (<https://especes-exotiques-envahissantes.fr/reseau-dexpertise-scientifique-et-technique/>)\n\n![](images/resteee.png){width=60%}\n\n\nPuis le 14 novembre à l'assemblée générale de la zone atelier santé environnement Camargue du CNRS (<https://www.zacam.cnrs.fr/>). \n\n![](images/zacam.png)\n\n\nLa présentation du projet peut être consultée en cliquant sur l'image ci-dessous :\n\n[![](diapo-titre.png)](https://doi.org/10.6084/m9.figshare.30939089.v2)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

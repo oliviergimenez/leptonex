@@ -1,0 +1,43 @@
+---
+title: "LeptoNex au comité technique « ragondin » du Symbo"
+description: | 
+  Echanges avec les piégeurs
+author:
+  - name: "Olivier Gimenez et Nathalie Charbonnel"
+date: "2025-10-07"
+title-block-banner: "#B8573E"
+toc: true
+toc-location: left
+toc-depth: 2
+categories:
+  - réunion
+image: dia.png
+draft: false
+freeze: true
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r}
+#| include: false
+library(htmltools)
+```
+
+<!-- remove metadata section -->
+<style>
+  #title-block-header.quarto-title-block.default .quarto-title-meta {
+      display: none;
+  }
+</style>
+
+<!------------------------ Post starts here ------------------------>
+
+Le projet LeptoNex a participé début octobre au comité technique du Symbo consacré au bilan de la campagne de régulation du ragondin autour de l'étang de l'Or et au lancement de la saison 2025–2026.
+
+![](images/pixgroupe.JPG)
+
+Ces échanges ont été l'occasion de discuter des résultats de la saison passée, des enjeux opérationnels du piégeage et des perspectives pour l’année à venir, ainsi que du rôle des travaux de recherche menés dans LeptoNex. Les questions soulevées par les acteurs de terrain ont notamment porté sur la contribution des données scientifiques (géolocalisation, structure des populations) à l'appui des actions de gestion.
+
+Cette participation s'inscrit pleinement dans la démarche du projet, fondée sur un dialogue étroit entre recherche, gestionnaires et acteurs locaux, au cœur de l’approche Une seule santé portée par LeptoNex.
+
+![](images/articlemidilibre.jpg)

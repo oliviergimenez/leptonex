@@ -1,0 +1,14 @@
+{
+  "hash": "1c969f0d87a09c6ab980ef91915b1694",
+  "result": {
+    "markdown": "---\ntitle: \"Réunion point d'étape\"\ndescription: | \n  Au programme pour les années à venir.\nauthor:\n  - name: \"Olivier Gimenez et Nathalie Charbonnel\"\ndate: \"2025-09-05\"\ntitle-block-banner: \"#B8573E\"\ntoc: true\ntoc-location: left\ntoc-depth: 2\ncategories:\n  - réunion\n  - pique-nique\nimage: cbgp.jpg\ndraft: false\nfreeze: true\neditor_options: \n  chunk_output_type: inline\n---\n\n\n\n\n<!-- remove metadata section -->\n<style>\n  #title-block-header.quarto-title-block.default .quarto-title-meta {\n      display: none;\n  }\n</style>\n\n<!------------------------ Post starts here ------------------------>\n\nDébut septembre, l'équipe LeptoNex s'est retrouvée au CBGP pour un nouveau point d'étape, avec au programme : présentation des nouvelles personnes, organisation du terrain et projection sur les mois à venir.\n\nLa réunion a commencé par un tour de table des nouveaux et nouvelles membres, avec notamment l'arrivée de collègues de l'ARS Occitanie et de la Métropole (GEMAPI), renforçant encore la dimension interdisciplinaire et partenariale du projet.\n\nNous avons ensuite travaillé sur l'identification des sites d'étude dans les bassins versants de l'Or et du Lez, et sur l'organisation des campagnes 2025–2026. Un autre temps fort de la réunion a porté sur les stratégies à adopter en cas de détection de leptospires, chez les ragondins ou dans l'environnement. Les échanges ont aussi permis d'avancer sur les questions de partage, d'archivage et de valorisation des données, notamment via l'Infrastructure de Données Géographiques lancée par la métropole de Montpellier.\n\nLa réunion a également été l'occasion de présenter les doctorantes recrutées sur le projet pour les quatre prochaines années, avec des thèses en anthropologie, statistique et éco-épidémiologie. Nous souhaitons la bienvenue à Camille Giacomel, Camille Mottier et Julie Blanchet. \n\nLa matinée s'est conclue par une visite des installations du CBGP, du plateau de collections de petits mammifères au laboratoire de génétique. \n\n![](images/groupe.png)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

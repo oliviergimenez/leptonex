@@ -1,0 +1,39 @@
+---
+title: "Déplacements de ragondins"
+description: | 
+  Premiers résultats GPS.
+author:
+  - name: "Olivier Gimenez et Camille Mottier"
+date: "2025-11-16"
+title-block-banner: "#B8573E"
+toc: true
+toc-location: left
+toc-depth: 2
+categories:
+  - GPS
+image: gps-units.png
+draft: false
+freeze: true
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r}
+#| include: false
+library(htmltools)
+```
+
+<!-- remove metadata section -->
+<style>
+  #title-block-header.quarto-title-block.default .quarto-title-meta {
+      display: none;
+  }
+</style>
+
+<!------------------------ Post starts here ------------------------>
+
+Enfin ! Après une phase de test l'an dernier, notre protocole expérimental pour étudier les déplacements de ragondins est en place. Ci-dessous un exemple des données que nous récoltons. 
+
+<video controls autoplay muted loop playsinline style="max-width:100%; height:auto;">
+  <source src="images/ragondin10_mejean_anim.mp4" type="video/mp4">
+</video>

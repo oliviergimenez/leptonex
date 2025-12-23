@@ -10,7 +10,7 @@ toc: true
 toc-location: left
 toc-depth: 2
 categories:
-  - réunions
+  - réunion
 image: OneHeath4Cities_Avatar_0.png
 draft: false
 freeze: true

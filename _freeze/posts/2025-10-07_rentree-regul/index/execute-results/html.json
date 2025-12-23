@@ -1,0 +1,14 @@
+{
+  "hash": "82d7ce58a65f466c9fd964e01dbe35ec",
+  "result": {
+    "markdown": "---\ntitle: \"LeptoNex au comité technique « ragondin » du Symbo\"\ndescription: | \n  Echanges avec les piégeurs\nauthor:\n  - name: \"Olivier Gimenez et Nathalie Charbonnel\"\ndate: \"2025-10-07\"\ntitle-block-banner: \"#B8573E\"\ntoc: true\ntoc-location: left\ntoc-depth: 2\ncategories:\n  - réunion\nimage: dia.png\ndraft: false\nfreeze: true\neditor_options: \n  chunk_output_type: inline\n---\n\n\n\n\n<!-- remove metadata section -->\n<style>\n  #title-block-header.quarto-title-block.default .quarto-title-meta {\n      display: none;\n  }\n</style>\n\n<!------------------------ Post starts here ------------------------>\n\nLe projet LeptoNex a participé début octobre au comité technique du Symbo consacré au bilan de la campagne de régulation du ragondin autour de l'étang de l'Or et au lancement de la saison 2025–2026.\n\n![](images/pixgroupe.JPG)\n\nCes échanges ont été l'occasion de discuter des résultats de la saison passée, des enjeux opérationnels du piégeage et des perspectives pour l’année à venir, ainsi que du rôle des travaux de recherche menés dans LeptoNex. Les questions soulevées par les acteurs de terrain ont notamment porté sur la contribution des données scientifiques (géolocalisation, structure des populations) à l'appui des actions de gestion.\n\nCette participation s'inscrit pleinement dans la démarche du projet, fondée sur un dialogue étroit entre recherche, gestionnaires et acteurs locaux, au cœur de l’approche Une seule santé portée par LeptoNex.\n\n![](images/articlemidilibre.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a7e70f0d5015bf3e78da25d2e4c47832",
+  "result": {
+    "markdown": "---\ntitle: \"Réunion point d'étape\"\ndescription: | \n  Premiers résultats et perspectives.\nauthor:\n  - name: \"Olivier Gimenez et Nathalie Charbonnel\"\ndate: \"2025-12-11\"\ntitle-block-banner: \"#B8573E\"\ntoc: true\ntoc-location: left\ntoc-depth: 2\ncategories:\n  - réunion\n  - pique-nique\nimage: chateau.jpg\ndraft: false\nfreeze: true\neditor_options: \n  chunk_output_type: inline\n---\n\n\n\n\n<!-- remove metadata section -->\n<style>\n  #title-block-header.quarto-title-block.default .quarto-title-meta {\n      display: none;\n  }\n</style>\n\n<!------------------------ Post starts here ------------------------>\n\nL'équipe LeptoNex s'est retrouvée pour une matinée d'échanges autour de l'avancée du projet. \n\nAprès une présentation du projet Grand Parc, nous avons partagé les premiers résultats :  \n🦫 les captures de ragondins, la pose des balises GPS et les premiers enseignements sur leurs déplacements,  \n🧫 les analyses sur la présence de leptospires chez les ragondins,  \n🐕 les avancées côté laboratoire vétérinaire, avec la détection des leptospires chez les chiens (et dans les troupeaux),  \n🏥 et les objectifs portés par l'ARS Occitanie autour du groupe Leptospires.  \n\nLa fin de matinée a été consacrée aux travaux en socio-anthropologie (observations de terrain, entretiens en cours et à venir), puis à une discussion collective sur les actions d'animation et de sensibilisation prévues pour 2026.\n\nNous avons terminé sur un moment de convivialité autour d'un pique-nique. \n\n![](images/groupe.jpeg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

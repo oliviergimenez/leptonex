@@ -1,0 +1,48 @@
+---
+title: "Réunion point d'étape"
+description: | 
+  Premiers résultats et perspectives.
+author:
+  - name: "Olivier Gimenez et Nathalie Charbonnel"
+date: "2025-12-11"
+title-block-banner: "#B8573E"
+toc: true
+toc-location: left
+toc-depth: 2
+categories:
+  - réunion
+  - pique-nique
+image: chateau.jpg
+draft: false
+freeze: true
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r}
+#| include: false
+library(htmltools)
+```
+
+<!-- remove metadata section -->
+<style>
+  #title-block-header.quarto-title-block.default .quarto-title-meta {
+      display: none;
+  }
+</style>
+
+<!------------------------ Post starts here ------------------------>
+
+L'équipe LeptoNex s'est retrouvée pour une matinée d'échanges autour de l'avancée du projet. 
+
+Après une présentation du projet Grand Parc, nous avons partagé les premiers résultats :  
+🦫 les captures de ragondins, la pose des balises GPS et les premiers enseignements sur leurs déplacements,  
+🧫 les analyses sur la présence de leptospires chez les ragondins,  
+🐕 les avancées côté laboratoire vétérinaire, avec la détection des leptospires chez les chiens (et dans les troupeaux),  
+🏥 et les objectifs portés par l'ARS Occitanie autour du groupe Leptospires.  
+
+La fin de matinée a été consacrée aux travaux en socio-anthropologie (observations de terrain, entretiens en cours et à venir), puis à une discussion collective sur les actions d'animation et de sensibilisation prévues pour 2026.
+
+Nous avons terminé sur un moment de convivialité autour d'un pique-nique. 
+
+![](images/groupe.jpeg)

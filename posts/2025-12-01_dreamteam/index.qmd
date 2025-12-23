@@ -1,0 +1,47 @@
+---
+title: "LeptoNex s'agrandit"
+description: | 
+  Démarrage des trois thèses Nexus.
+author:
+  - name: "Olivier Gimenez"
+date: "2025-12-01"
+title-block-banner: "#B8573E"
+toc: true
+toc-location: left
+toc-depth: 2
+categories:
+  - thèse
+  - nexus
+image: nexus.jpg
+draft: false
+freeze: true
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r}
+#| include: false
+library(htmltools)
+```
+
+<!-- remove metadata section -->
+<style>
+  #title-block-header.quarto-title-block.default .quarto-title-meta {
+      display: none;
+  }
+</style>
+
+<!------------------------ Post starts here ------------------------>
+
+C'est un moment clé pour le projet LeptoNex : les trois thèses financées par l'Institut ExposUM (programme Nexus) de l'Université de Montpellier démarrent officiellement, pour quatre années de recherche à l'interface entre écologie, santé, modélisation et sciences humaines.
+
+Ces thèses complémentaires incarnent pleinement l'approche One Health du projet :  
+👥 Camille Giacomel en anthropologie de la santé : comprendre les interactions, pratiques et perceptions autour des ragondins et des risques sanitaires,  
+📐 Camille Mottier en modélisation statistique : analyser et simuler les dynamiques spatiales et sanitaires du ragondin à différentes échelles,  
+🧬 Julie Blanchet en éco-épidémiologie et génétique : caractériser la diversité et la circulation des leptospires chez les ragondins et dans l'environnement.  
+
+Encadrées au CEFE, à l'IMAG et au CBGP, Camille, Camille et Julie vont travailler en étroite interaction, avec des terrains communs, des échanges réguliers entre disciplines et de nombreux liens avec les acteurs du territoire.
+
+Bienvenue aux doctorantes et doctorants dans l'aventure LeptoNex! 
+
+![](images/team.png)

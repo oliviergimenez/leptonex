@@ -1,0 +1,14 @@
+{
+  "hash": "6054c575554e83db05996743bc36796f",
+  "result": {
+    "markdown": "---\ntitle: \"Déplacements de ragondins\"\ndescription: | \n  Premiers résultats GPS.\nauthor:\n  - name: \"Olivier Gimenez et Camille Mottier\"\ndate: \"2025-11-16\"\ntitle-block-banner: \"#B8573E\"\ntoc: true\ntoc-location: left\ntoc-depth: 2\ncategories:\n  - GPS\nimage: gps-units.png\ndraft: false\nfreeze: true\neditor_options: \n  chunk_output_type: inline\n---\n\n\n\n\n<!-- remove metadata section -->\n<style>\n  #title-block-header.quarto-title-block.default .quarto-title-meta {\n      display: none;\n  }\n</style>\n\n<!------------------------ Post starts here ------------------------>\n\nEnfin ! Après une phase de test l'an dernier, notre protocole expérimental pour étudier les déplacements de ragondins est en place. Ci-dessous un exemple des données que nous récoltons. \n\n<video controls autoplay muted loop playsinline style=\"max-width:100%; height:auto;\">\n  <source src=\"images/ragondin10_mejean_anim.mp4\" type=\"video/mp4\">\n</video>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
