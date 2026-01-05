@@ -36,6 +36,8 @@ website:
           text: "Santé"
       - href: about/index.qmd
         text: "Equipe"
+      - href: territoires/index.qmd
+        text: "Territoires"
       - href: posts/index.qmd
         text: "Nouvelles"
       # - href: software/index.qmd

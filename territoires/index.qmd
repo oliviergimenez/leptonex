@@ -1,0 +1,27 @@
+---
+title: "Territoires"
+subtitle: Les sites d'étude
+format: 
+  html: 
+    include-after-body: _footer.html
+title-block-banner: "#E06E53"
+title-block-banner-color: body
+---
+
+```{r setup}
+#| include: false
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+#| include: false
+library(htmltools)
+source("../R/functions.R")
+```
+
+Nous travaillons principalement sur deux bassins versants, le Lez et l'Or. Vous pouvez retrouver plus d'informations sur le site de l'[EPTB du Lez](https://eptb-lez.fr/) et de l'[EPTB de l'Or](https://etang-de-l-or.com/). Un de nos terrains privilégiés est le site du Méjean avec [la Maison de la Nature](https://www.ville-lattes.fr/service-nature/) à Lattes.
+
+![](images/bv-lez.jpg)
+![](images/bv-or.jpg)
+
+![](images/maison-nature.jpg)
