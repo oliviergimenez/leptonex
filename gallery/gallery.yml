@@ -6,16 +6,16 @@
       href: https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/article/leptospirose
       thumbnail: images/lepto.png
     - title: Les espèces exotiques
-      author: Nathalie Vazzoler-Antoine
+      author: Nathalie Vazzoler
       subtitle: Communication
       href: https://etang-de-l-or.com/especes_envahissantes/
       thumbnail: images/ragondin.gif
-    - title: Estimer les effectifs
-      author: Olivier Gimenez
-      subtitle: Article scientifique
-      href: https://neobiota.pensoft.net/article/145876/
-      code: https://github.com/oliviergimenez/counting-rodents
-      thumbnail: images/estimate-rodent-abundance.png
+    - title: Valorisation alimentaire des ragondins piégés sur le bassin-versant de l'étang de l'Or
+      author: Nathalie Vazzoler
+      subtitle: Rapport de stage
+      href: images/rendu-final-ragondin.pdf
+      #code: https://github.com/oliviergimenez/counting-rodents
+      thumbnail: images/valo-alim.png
     # - title: Frog diversification
     #   author: Ian Brennan et al.
     #   subtitle: Peer-reviewed paper
