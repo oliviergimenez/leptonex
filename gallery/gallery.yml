@@ -10,12 +10,12 @@
       subtitle: Communication
       href: https://etang-de-l-or.com/especes_envahissantes/
       thumbnail: images/ragondin.gif
-    - title: Valorisation alimentaire des ragondins piégés sur le bassin-versant de l'étang de l'Or
-      author: Nathalie Vazzoler
-      subtitle: Rapport de stage
-      href: images/rendu-final-ragondin.pdf
-      #code: https://github.com/oliviergimenez/counting-rodents
-      thumbnail: images/valo-alim.png
+    # - title: Valorisation alimentaire des ragondins piégés sur le bassin-versant de l'étang de l'Or
+    #   author: Nathalie Vazzoler
+    #   subtitle: Rapport de stage
+    #   href: images/rendu-final-ragondin.pdf
+    #   #code: https://github.com/oliviergimenez/counting-rodents
+    #   thumbnail: images/valo-alim.png
     # - title: Frog diversification
     #   author: Ian Brennan et al.
     #   subtitle: Peer-reviewed paper
